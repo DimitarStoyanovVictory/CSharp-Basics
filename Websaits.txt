@@ -1,0 +1,17 @@
+1.http://tipsandtricks.runicsoft.com - Very good websait for tips and tricks.
+
+http://tipsandtricks.runicsoft.com/CSharp/StringReverse.html - How to reverse a string
+
+2.http://www.dotnetperls.com/ - Very good examples here for methods.
+
+http://www.dotnetperls.com/compareto
+
+3.https://sc1.checkpoint.com/documents/R76/CP_R76_IPS_AdminGuide/12885.htm - Regax symbols
+
+4.http://www.csharp-examples.net/reverse-bytes/ - good examples for C#
+
+http://www.csharp-examples.net/string-format-datetime/ - link for DateTImeFormats (REALY GOOD !!!)
+
+5. http://devbg.org/dotnetbook/Nakov-Programming-.NET-Framework-Book-Volume-1-ver-1.03.html#_Toc116671746 - Regular Expressions Really good Regax in Java.
+
+6. http://pavelkolev.com/html-rechnik/ - All HTML files.
